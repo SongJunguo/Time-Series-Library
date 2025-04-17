@@ -166,3 +166,8 @@ result_anomaly_detection.txt
 scripts/augmentation/
 run_anylearn.py
 environment.txt
+all_datasets.zip
+core
+ETTh1 patchTST result_long_term_forecast.txt
+weather patchTST result_long_term_forecast.txt
+ETTh2 patchTST result_long_term_forecast.txt
